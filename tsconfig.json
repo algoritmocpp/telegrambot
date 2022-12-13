@@ -8,7 +8,7 @@
     "sourceMap": true,
     "lib": ["es2022"],
     "skipLibCheck": true,
-    "rootDir": "bot",
+    "rootDir": "./bot/src",
     "outDir": "dist"
   }
 } 
