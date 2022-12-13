@@ -1,0 +1,1 @@
+export { BotTemplate } from './bot';
