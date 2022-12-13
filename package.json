@@ -1,0 +1,19 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "Meu bot pessoal para telegram",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algoritmocpp/telegrambot.git"
+  },
+  "author": "algoritmocpp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algoritmocpp/telegrambot/issues"
+  },
+  "homepage": "https://github.com/algoritmocpp/telegrambot#readme"
+}
