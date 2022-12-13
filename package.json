@@ -4,6 +4,7 @@
   "description": "Meu bot pessoal para telegram",
   "main": "main.js",
   "scripts": {
+    "start": "node main.js",
     "test": "jest"
   },
   "repository": {
