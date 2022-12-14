@@ -8,7 +8,7 @@ import { hello } from './commands';
 
 dotenv.config();
 
-const bot: Telegraf<Context<Update>> = new Telegraf(process.env.TOKEN as string)
+const bot: Telegraf<Context<Update>> = new Telegraf(process.env.TELEGRAM_TOKEN as string)
   .start(start)
   .command('hello', hello);
 
