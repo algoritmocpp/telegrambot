@@ -1,5 +1,5 @@
 import { Context } from "telegraf";
 
 export function start (ctx: Context) {
-  ctx.reply('Opa ' + ctx.from?.first_name + '!');
+  ctx.reply('Seja bem vindo Mestre ' + ctx.from?.first_name + '!');
 }
